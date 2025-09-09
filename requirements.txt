@@ -1,3 +1,0 @@
-CUDA (from nvidia)
-Supported torch version for your CUDA
-Supported torchvision for your torch version
